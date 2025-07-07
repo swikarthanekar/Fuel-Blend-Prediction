@@ -34,5 +34,22 @@ sustainable-fuel-blend-prediction/
 To reproduce this project:
 pip install -r requirements.txt
 
+Key libraries:
+  --pandas
+  --numpy
+  --scikit-learn
+  --lightgbm
+  --xgboost
+  --optuna
+  --seaborn, matplotlib
 
+📌 How to Upload to GitHub
+1. Create a new repository on GitHub (e.g., `sustainable-fuel-blend-prediction`)
+2. Clone it to your local machine:
+
+git clone https://github.com/yourusername/sustainable-fuel-blend-prediction.git
+cd sustainable-fuel-blend-prediction
+git add .
+git commit -m "Initial project commit with data, notebooks, and README"
+git push origin main
 
