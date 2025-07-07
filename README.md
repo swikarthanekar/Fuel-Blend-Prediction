@@ -47,7 +47,7 @@ Key libraries:
 1. Create a new repository on GitHub (e.g., `sustainable-fuel-blend-prediction`)
 2. Clone it to your local machine:
 
-git clone https://github.com/yourusername/sustainable-fuel-blend-prediction.git
+git clone (https://github.com/swikarthanekar/Fuel-Blend-Prediction.git)
 cd sustainable-fuel-blend-prediction
 git add .
 git commit -m "Initial project commit with data, notebooks, and README"
