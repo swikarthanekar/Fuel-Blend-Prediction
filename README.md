@@ -3,15 +3,18 @@
 This project was developed as part of a data science hackathon focused on accelerating the transition to sustainable aviation fuels. The objective is to build machine learning models that can accurately predict the properties of fuel blends based on their constituent components and proportions — helping the aviation industry craft sustainable and performance-compliant fuels.
 
 📊 Problem Statement
+
 Blending fuels to meet specific operational, safety, and environmental standards is a complex challenge involving non-linear interactions between base components. The aim is to predict 10 key blend properties from blend composition and component-wise properties using supervised regression techniques.
 
 📁 Dataset
+
 The dataset contains:
 - **train.csv**: 2000 samples, with blend compositions, component properties, and target blend properties.
 - **test.csv**: 500 samples, with blend compositions and component properties (target values hidden).
 - **sample_submission.csv**: Required format for submitting predictions.
 
 📑 Approach
+
 - Exploratory Data Analysis (EDA)
 - Baseline LightGBM and XGBoost models
 - Hyperparameter tuning with Optuna
