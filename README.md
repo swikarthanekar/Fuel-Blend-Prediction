@@ -1,4 +1,5 @@
 ✈️ Sustainable Fuel Blend Property Prediction
+
 This project was developed as part of a data science hackathon focused on accelerating the transition to sustainable aviation fuels. The objective is to build machine learning models that can accurately predict the properties of fuel blends based on their constituent components and proportions — helping the aviation industry craft sustainable and performance-compliant fuels.
 
 📊 Problem Statement
