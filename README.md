@@ -25,9 +25,11 @@ The dataset contains:
 - Optimized final model submission
 
 🏆 Results
+
 Achieved a leaderboard score of **71.96** with an average MAPE of **1.32** on validation. Future improvements involve advanced ensembling, aggressive feature engineering, and deeper hyperparameter tuning to target a 90+ leaderboard score.
 
 📂 Project Structure
+
 sustainable-fuel-blend-prediction/
 ├── data/ # Datasets
 ├── notebooks/ # EDA, Baseline and Final Model Notebooks
@@ -48,6 +50,7 @@ Key libraries:
   --seaborn, matplotlib
 
 📌 How to Upload to GitHub
+
 1. Create a new repository on GitHub (e.g., `sustainable-fuel-blend-prediction`)
 2. Clone it to your local machine:
 
