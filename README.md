@@ -66,8 +66,8 @@ Key libraries:
 📌 How to Upload to GitHub
 
 1. Create a new repository on GitHub (e.g., `sustainable-fuel-blend-prediction`)
-2. 
-3. Clone it to your local machine:
+  
+2. Clone it to your local machine:
 
 git clone (https://github.com/swikarthanekar/Fuel-Blend-Prediction.git)
 
