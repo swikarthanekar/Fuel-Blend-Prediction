@@ -31,12 +31,18 @@ Achieved a leaderboard score of **71.96** with an average MAPE of **1.32** on va
 📂 Project Structure
 
 sustainable-fuel-blend-prediction/
+
 ├── data/ # Datasets
+
 ├── notebooks/ # EDA, Baseline and Final Model Notebooks
+
 ├── submissions/ # CSV submission files for leaderboard
+
 ├── README.md # Project documentation
 
+
 📦 Setup & Dependencies
+
 To reproduce this project:
 pip install -r requirements.txt
 
